@@ -1,0 +1,15 @@
+{
+    "title":"資訊",
+    "version":"運行版本",
+    "info_info":"資訊:運行訊息",
+    "info_prom":"提示:提示訊息",
+    "info_warn":"警告:出錯或者其他例外出現訊息",
+    "ready1":"BOT執行中",
+    "ready2":"已就緒",
+    "activity":"Unturned｜在線",
+    "activity_log":"當前在線玩家",
+    "refresh_time":"資料刷新速度",
+    "refresh_time2":"毫秒(ms)",
+    "servers":"伺服器",
+    "players":"名玩家"
+}

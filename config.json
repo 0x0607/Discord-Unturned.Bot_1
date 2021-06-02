@@ -1,0 +1,10 @@
+{
+	"prefix": "!",
+	"language":"en",
+	"token": "https://discord.com/developers/applications",
+	"isonlineRefresh":15000,
+	"servers": "https://unturned-servers.net/servers/manage/",
+	"version":"Transistor v3.21.0.1",
+	"author":"T3oSr",
+	"lastupdate":"2021-06-03"
+}

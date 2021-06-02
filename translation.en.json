@@ -1,0 +1,15 @@
+{
+    "title":"Information",
+    "version":"Version",
+    "info_info":"Info:Information",
+    "info_prom":"Prom:prompt",
+    "info_warn":"Warning:Error or other exception message",
+    "ready1":"BOT getting ready",
+    "ready2":"ready",
+    "activity":"Unturned｜Online",
+    "activity_log":"Online",
+    "refresh_time":"Refresh rate",
+    "refresh_time2":"millisecond(ms)",
+    "servers":"Server",
+    "players":"Players"
+}
