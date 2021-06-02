@@ -1,6 +1,6 @@
 You may need to install [nodejs](https://nodejs.org) first  
 您可能要先安裝 [nodejs](https://nodejs.org)  
-
+¯\\\_(ツ)\_/¯  
 # how to use (如何使用)
 
 Run Auto-Setup.exe  
