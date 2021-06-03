@@ -1,7 +1,7 @@
 You may need to install [nodejs](https://nodejs.org) first  
 您可能要先安裝 [nodejs](https://nodejs.org)  
 ¯\\\_(ツ)\_/¯  
-# how to use (如何使用)
+# how to use 
 
 Run Auto-Setup.exe  
 >Auto-Setup.exe will help you install  
@@ -11,7 +11,7 @@ Modify the content of config.json
 >language：zh_TW｜en (Chinese or English)  
 token："your_discord-bot_token"  
 servers："unturned-servers.net's API"  
-# how to use (如何使用)
+# 如何使用
 運行 Auto-Setup.exe  
 >Auto-Setup.exe 會幫助您安裝必要的node_modules
   
