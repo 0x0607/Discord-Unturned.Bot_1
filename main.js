@@ -1,8 +1,10 @@
 const Discord = require('discord.js');
 const config = require("./config.json");
 const lang = require("./translation." + config.language + ".json");
-const bot = new Discord.Client();
-
+//const bot = new Discord.Client();
+const {Client,Intents} = require('discord.js');
+const bot = new Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MEMBERS, Intents.FLAGS.GUILD_MESSAGES]});
+//const bot = new Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MEMBERS, Intents.FLAGS.GUILD_MESSAGES]});
 /*----------開始執行主程式(初始化)------------------------------------------*/
 function info(str) {console.log('\x1b[36m%s\x1b[0m','[INFO] '+str);}
 function prom(str) {console.log('\x1b[33m%s\x1b[0m','[PROM] '+str);}
