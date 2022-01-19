@@ -2,5 +2,5 @@ cd ./
 title install
 @echo off
 cls
-npm install request
-npm install discord
+call npm install request
+call npm install discord.js
